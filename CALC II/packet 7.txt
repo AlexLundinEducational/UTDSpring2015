@@ -1,0 +1,21 @@
+9.4
+logrithmic function
+pull p out to get into form
+divide to get k
+
+graphing for solutions, asymptotes and inflection point
+
+[-b \|----(b2-4ac)]2a
+
+10.1
+parametric eq
+solve x or y for t, plug into opposite function, get where t=0, use t values to find x and y
+
+10.2
+parametric eq with calc
+dy/dx => dy/dt // dx/dt
+
+d'' => derivative of dy/dt // dx/dt
+
+fraction rules of derivation
+f(x)/g(x) => g'(x)f(x)-f'(x)g(x)
